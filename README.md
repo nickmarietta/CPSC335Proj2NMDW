@@ -6,8 +6,10 @@ Download the zip folder and then open it in VS Code or a similar IDE.
 
 **To run the first and second problem**
 ```bash
-python/python3 prob1.py (same thing for prob2 but just prob2.py)
+python/python3 prob1.py
 ```
+It is the same thing for problem 2 but just run *prob2.py* instead of *prob1.py*
+
 (You can add your own test cases in the code itself by editing or adding more print statements of this form:
 
 ```python
