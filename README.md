@@ -1,6 +1,16 @@
 # CPSC335Proj2NMDW
 This is the repository for Project 2 for CPSC 335 with Professor Moryani. The contributors are Nicklaus Marietta and Dylan Wong.
 
+EMAILS:
+```txt
+Student 1 —
+Name: Dylan Wong
+Email: dylannwong@csu.fullerton.edu
+Student 2 —
+Name: Nicklaus Marietta
+Email: nick.marietta@csu.fullerton.edu
+```
+
 ## Instructions for Using the Program
 Download the zip folder and then open it in VS Code or a similar IDE.
 
